@@ -1,0 +1,8 @@
+.box {
+    width: 500px;
+    margin: 10px;
+    border: 5px solid darkturquoise;
+    border-radius: 14px;
+    padding: 15px;
+}
+
